@@ -9,3 +9,5 @@ League of Legends also includes three ways teams may choose what champion they w
 Blind Pick allows the two teams to select their champions simultaneously. The players only learn the champion selections of the opposing team when the match begins. It is available on Summoner's Rift, Twisted Treeline, and the Crystal Scar for Normal Matchmaking games and Co-op vs. AI, and for all modes in custom games.
 Draft Pick allows each team to ban five champions each (a total of ten champions banned), removing them from the match. Teams then take turns selecting their champions while being able to see the selections of the other team. It is available on Summoner's Rift for matchmaking games, and for all modes in custom games.
 Random Pick randomly assigns a champion to each player. Players accumulate re-rolls by playing multiple matches, which they can use to randomly select another champion for that match. It is available on Howling Abyss for ARAM (All Random All Mid) games, and for all modes in custom games.
+
+Click [here](home.md) to go back to home page

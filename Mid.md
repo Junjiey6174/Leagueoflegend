@@ -5,3 +5,5 @@ Here are the best mid laner
 [Choice One](doinb.md)
 
 [Choice Two](Faker.md)
+
+Click [here](home.md) to go back to home page

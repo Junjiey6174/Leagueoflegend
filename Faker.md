@@ -4,3 +4,5 @@ you can click one of the link to learn from him
 [Link One](https://www.youtube.com/watch?v=-iD8Ab05N1s)
 
 [Link Two](https://dotesports.com/league-of-legends/news/faker-releasing-mid-lane-guides-31149)
+
+Click [here](home.md) to go back to home page

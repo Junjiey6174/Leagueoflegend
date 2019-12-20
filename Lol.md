@@ -11,3 +11,5 @@ Designers: Steve Feak, Tom Cadwell, Colt Hallam, Christina Norman, Rob Garrett
 [click here for more](Gametype.md)
 
 [click here for more](Esport.md)
+
+Click [here](home.md) to go back to home page
